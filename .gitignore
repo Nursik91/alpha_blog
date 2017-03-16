@@ -20,4 +20,7 @@
 # Ignore Byebug command history file.
 .byebug_history
 
+# Idea files
 .idea/workspace.xml
+.idea
+*.iml
